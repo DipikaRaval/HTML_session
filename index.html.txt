@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Assignment 1</title>
+</head>
+
+<body>
+<!--this is a heading--> 
+  <h1>The Sky</h1>
+  <img src="sky.jpg" width=“300px” 	height=“200px” alt=“sky”/>
+
+  <p>The sky is blue</p>
+
+</body>
+
+
+
+</html>
